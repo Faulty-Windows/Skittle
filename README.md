@@ -1,7 +1,6 @@
 # Skittle Website
 
-The official ![Skittle Doc](https://github.com/WindowsFacts/Skittle/blob/main/Skittle Image JPEG.jpg?raw=true)
-Website!
+The official Website!
 
 # FAQ
 
